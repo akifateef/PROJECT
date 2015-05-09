@@ -1,0 +1,82 @@
+
+
+
+.ourteam {
+	font-size: 0.8125em;
+	padding: 0.5em 0;
+	color:#727272;
+	line-height: 1.8em;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.ourteam h3{
+	color: #3AB6CB;
+	font-size: 22px;
+
+}
+
+.ourteam table{
+	vertical-align: "center";
+	text-align: center;
+
+
+}
+.ourteam h2{
+	font-size: 15px;
+	font-family: 'ambleregular';
+	color: #F1873A;
+	text-align: center;
+}
+
+.img-circular1{
+margin: 20px 40px;
+width: 150px;
+height: 150px;
+background-image: url("wasay.jpeg");
+display: inline-block;
+background-size: cover;
+border-radius: 100px
+
+}
+
+.img-circular2{
+margin: 20px 40px;	
+width: 150px;
+height: 150px;
+background-image: url("rimsha.jpeg");
+display: inline-block;
+background-size: cover;
+border-radius: 100px
+}
+
+.img-circular3{
+margin: 20px 40px;
+width: 150px;
+height: 150px;
+background-image: url("fouzia.jpeg");
+display: inline-block;
+background-size: cover;
+border-radius: 100px
+}
+
+.img-circular4{
+margin: 20px 40px;
+width: 150px;
+height: 150px;
+background-image: url("sadiya.jpeg");
+display: inline-block;
+background-size: cover;
+border-radius: 100px
+}
+
+.img-circular5{
+margin: 20px 40px;
+width: 150px;
+height: 150px;
+background-image: url("jaw.jpg");
+display: inline-block;
+background-size: cover;
+border-radius: 100px
+}
+

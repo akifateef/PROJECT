@@ -1,0 +1,128 @@
+create table iphone6(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table iphoneplus(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table iphone5s(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table iphone5(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsungs6(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsungs5(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsungnote4(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsungnote3(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table lumia920(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table lumia720(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table lumia1080(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table lumia520(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table delli7(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table dell14z(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table dellli5(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table dellv(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table hpx(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table hp103(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table hpef(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table hpc(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table acera(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table acerc(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table acers(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table acere(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ps4(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ps3(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ps2(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ps1(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table xbox1(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table xbox360(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table xbox(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table xbox720(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ipadair(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ipad3(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ipad2(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table ipadmini(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsunggt4(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsunggt3(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsunggt2(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table samsunggts(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table danytg5(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table danytg4(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table danytq4(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+create table danytq3(id int primary key auto_increment,Name varchar(15),Email varchar(30),Phone int(12),City varchar(15),Address varchar(60),Qty int(2),Payment_method varchar(30),Term varchar(30),Total int(40));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
